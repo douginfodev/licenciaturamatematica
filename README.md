@@ -1,41 +1,8 @@
-# ARTIGO
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="assets/css/stylevars.css" />
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-    <meta name="Description" content="Repositorios Douglas Ramos -  Professor DOM">
-    <meta name="author" content="Douglas Ramos - Prof. DOM">
-    <meta name="robots" content="index,follow">
-    <title>Didáticas Utilizadas no Ensino-Aprendizagem da Tabuada by Douglas Ramos</title>
-</head>
-
-<body>
-    <div class="wrapper">
-        <main>
-            <header>
-                
-                    <div class="brand">
-                        <a href="https://claretiano.edu.br/" target="_blank">
-                        <div class="logo">                            
-                            <img src="assets/images/logo.png" alt="Logo Claretiano">
-                        </div>
-                        </a>
-                        <div class="title">
-                            <h1>Didáticas Utilizadas no Ensino-Aprendizagem da Tabuada</h1>
-                            <h2>Douglas de Araujo Ramos</h2>
-                            <h3>Tutor: Beatriz Consuelo Kuroishi Melo</h3>
-                            <h3>Claretiano - Centro Universitário - Vitória - ES</h3>
-                        </div>
-                        <div class="logo">
-                            <a href="https://claretiano.edu.br/" target="_blank">
-                            <img src="assets/images/logo.png" alt="Logo Claretiano">
-                            </a>
-                        </div>
-                    </a>
-                    </div>
-                </a>
-            </header>
+### ARTIGO
+# Didáticas Utilizadas no Ensino-Aprendizagem da Tabuada by Douglas Ramos</title>
+## Douglas de Araujo Ramos</h2>
+### Tutor: Beatriz Consuelo Kuroishi Melo</h3
+### [Claretiano - Centro Universitário - Vitória - ES](https://claretiano.edu.br/)
 
             <section>
                 <section class="section-biography">
